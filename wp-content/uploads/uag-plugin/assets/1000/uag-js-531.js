@@ -1,8 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){ window.addEventListener( 'load', function() {
-	UAGBButtonChild.init( '.uagb-block-4b79acf8' );
-});
-window.addEventListener( 'load', function() {
-	UAGBButtonChild.init( '.uagb-block-833ad81a' );
+	UAGBButtonChild.init( '.uagb-block-74cf735c' );
 });
 jQuery( document ).ready( function() {
 	if( jQuery( '.uagb-block-9368d12e' ).length > 0 ){
